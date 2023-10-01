@@ -1,0 +1,3 @@
+# add virtual environment to path
+venv
+.env 
